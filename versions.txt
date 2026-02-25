@@ -1,6 +1,22 @@
 ####
+Reproductor SPM v2.9.0 (64 bits)
+Subido el: Fecha de Subida: 24/02/2026
+Tamaño: 226 MB
+Soporte: Windows 8, 10 y 11 (64 bits)
+Windows 10/11
+-LO PRIMERO: ECUALIZADOR > Después de tanto tiempo... ¡YA TIENE ECUALIZADOR! 🎉 Personalizable Múltiples presets elegibles
+-🎨 VISUALIZADOR INTELIGENTE > Cambia de color según el horario Cambia de color según el cover que está sonando No es solo onda, es atmósfera
+-📚 MODO CATÁLOGO > Sugerencias según tus gustos (basado en lo que ya tenés en el PC) Próximamente: música fresca de internet (nueva o vieja, según gustos) Métricas: usos, likes, veces repetidas un paso más cerca de que la app te conozca mejor que vos mismo
+-✏️ EDITOR DE METADATA PROFESIONAL > Edición mínima o completa Automatización para cientos de audios (en pocos clics) Edición recta desde el reproductor (sin ventanas raras)
+-🔧 RENOMBRAR ARCHIVOS > Agregado al menú contextual Ya podés renombrar desde la lista Eso que parecía simple pero no estaba, ahora sí
+-📋 CLIP PORTAPAPELES INTELIGENTE > Capturas de pantalla Guardar textos e imágenes Autocompletado para trabajar con IA Para traducciones, edición de subtítulos, metadatos "El copia y pega llevado a otro nivel"
+-🎬 REPRODUCTOR DE VIDEO MEJORADO > Botones nuevos: retroceder/avanzar 10 segundos FLAC sin errores (al fin) Optimización de RAM y GPU Probado en Intel Celeron 1.4GHz con 4GB RAM (¡y funciona!)
+-🐛 BUGS RESUELTOS > IA y módulo de traducción de .srt y .vtt Muchos otros bugs que no mencione pero seguro estaban
+Versión: 2.9.0
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.9sps/64bits.Setup.2.9.0.rar
+####
 Reproductor SPM v2.8.0 (64 bits)
-Subido el: Fecha de Subida: 22/02/2026
+Subido el: Fecha de Subida: 22/01/2026
 Tamaño: 200 MB
 Soporte: Windows 8, 10 y 11 (64 bits)
 Windows 10/11
@@ -213,6 +229,7 @@ Mejoras en:
 - Funcion para exportar archivos
 - Nuevo reproductor FLAC
 link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/1.0.26/1.0.26.zip
+
 
 
 
