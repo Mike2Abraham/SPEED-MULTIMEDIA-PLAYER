@@ -14,7 +14,7 @@ Windows 10/11
 -🔧 AJUSTES REMODELADOS > Acceso más rápido y claro a todas las opciones de personalización y rendimiento.
 -✨ OPTIMIZACIÓN GENERAL > App remodelada casi por completo. Más fluida, más ligera, más estable. Probada en equipos de bajos recursos.
 Versión: 3.0.0
-link: [https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv3.0/64bits.Setup.3.0.0.rar]
+link: https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv3.0/64bits.Setup.3.0.0.rar
 ####
 Reproductor SPM v2.9.0 (64 bits)
 Subido el: Fecha de Subida: 24/02/2026
