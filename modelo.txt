@@ -4,8 +4,8 @@
       "nombre": "Xenova.exe",
       "tamano": "109 MB",
       "fecha": "13/1/2026",
-      "version": "1.0.0",
-      "link": "https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.8/Intall_modelsv.exe",
+      "version": "1.2.0",
+      "link": "https://github.com/Mike2Abraham/SPEED-ELECTRONIC-AUDIO-2.0/releases/download/SPv2.8_IA/Intall_modelsv.exe",
       "utilidad": "Modulo de traduccón potenciado con IA.. Oye, un detalle importante: este contenido no es mío, solo lo comparto porque es gratuito. Agradece al creador original y dale crédito donde corresponda. Lo que hagas con esto es bajo tu responsabilidad, no me relaciones con ningún uso que le des. ¡Disfrútalo! 😊"
     }
   ]
