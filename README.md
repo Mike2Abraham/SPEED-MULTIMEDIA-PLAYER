@@ -1,7 +1,7 @@
-#🚀 SPEED Multimedia Player
+# 🚀 SPEED Multimedia Player
 El reproductor universal que SÍ reproduce AVI, MKV, WMV y 64+ formatos más, con caché inteligente y seek instantáneo.
  
-#📌 ¿Qué es SPEED Multimedia?
+H1 📌 ¿Qué es SPEED Multimedia?
 SPEED Multimedia no es solo un reproductor. Es un ecosistema completo para gestionar, reproducir y convertir todo tu contenido multimedia en Windows, con un enfoque obsesivo en el rendimiento y la experiencia de usuario.
 
 Mientras otros proyectos prometen y fallan (como avbridge o "Desktop Custom Speed Media Player"), SPEED lleva más de 2.5 años en desarrollo, probado en equipos de bajos recursos (Intel Celeron 1.4GHz, 4GB RAM) y con una compatibilidad real con AVI, WMV, MKV, FLV y 64+ formatos más.
