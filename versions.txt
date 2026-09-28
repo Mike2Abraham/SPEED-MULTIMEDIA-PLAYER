@@ -1,4 +1,25 @@
 ####
+Reproductor SPM v3.1.0 (64 bits)
+Subido el: Fecha de Subida: 28/09/2026
+Tamaño: 321 MB
+Soporte: Windows 10 y 11 (64 bits)
+Windows 10/11
+-AUDIO > AutoPlay/Dados Custom: lista automática de 20 músicas según tus gustos al abrir SMA (configurable de 2 a 100.000 ítems, sin repetir, activable en cualquier contexto de audio) Edición rápida de metadatos con click derecho Botón flotante con horas y cantidad de la lista Organización por carpetas con playlists FLAC y MIDI soportados Menú contextual en botonera (última/primera canción, buscar en lista, repetir, abrir carpeta, seek exacto) Listas de 10.000 músicas cargan en 20 segundos con play instantáneo Streaming y podcasts reparados Historial de reproducciones corregido Filtro mejorado (números, emojis, metadatos, fechas, rutas) Visualizador apto para daltónicos Cover tipo vinilo (rota en play, para en pause)
+-🎬 VIDEO > Soporte real de AVI, MPG, MKV, TS, WMV, M4A con seek perfecto Hover con datos flotantes del video actual y el siguiente Lista reescrita con tabs dinámicos (Descargas y Conversiones por defecto, cola instantánea) Organización por categorías (Series, Pelis, Variados) y por carpetas Botón PLUS con calidez, nitidez y miles de efectos en tiempo real Bugs de reproducción, argumentos de Windows, subtítulos y dual audio reparados Flotante de tiempo optimizado Tips de notificaciones con animaciones reactivas Sistemas de vistas y BOOK mejorados Arrastre de carpetas o unidades completas Explorador movido a tab de listas
+-🖼️ IMAGEN > Historial de vistas por imagen Puente directo entre Galería y Visualizador Metadatos de imágenes arrastradas reparados Rutas con emojis y rutas largas reparadas Modo Collage mejorado (reorganizar, gaps, cantidad, dimensión, resolución) Miniaturas para listas largas Ver detalles unificado con propiedades generales
+-🎨 MODO CINE > Nuevo tab principal con experiencia Smart TV y soporte de controles remotos Catálogo local con Pelis, Series y Variados Navegación por año, director, actores, género, posters, sinopsis y rankings Estadísticas de visualización y control de dónde lo dejaste Estadísticas globales de música, imágenes, pelis y series
+-🔐 SISTEMA ADMIN > Conexión de múltiples APIs y keys para IMBP Varias cuentas (niños, trabajo, personal) Recomendaciones según gustos y relleno automático de metadata del Modo Cine Soporte de contraseñas
+-🔴 CENTERCONTROL > Franja roja superior para administrar ADMIN, ajustes, alarmas, apagados programados y reinicios Acceso directo a Convertidor, Editor de metadata, SMA, Traductor local y Descargador de videos Agregar videos, imágenes o música al vuelo
+-🗄️ CAJÓN SP > Recientes reescrito desde 0 con dock extendible Últimos vistos con memoria de dónde lo dejaste Más repetidos, menos repetidos, recomendados, destacados y nunca vistos Sección de tips + multimedia Aplica a audio, video e imagen Filtrado avanzado y opciones de gestión
+-🪟 MULTI-DESK WINDOWS > Ventanas e instancias ilimitadas con configuración independiente por ventana Soporte multimonitor Probado hasta 120 ventanas sin pérdida de rendimiento
+-🐛 BUGS RESUELTOS > Imagen rota en modo imágenes ya no deja la app en blanco Apertura lenta por errores de base de datos reparada Limpieza automática de temporales a los 20 segundos Viaje de video a audio ya no rompe la app Procesos innecesarios y errores de timing reparados Repair_lanzador.exe repara DLLs, EXEs y base de datos automáticamente (antivirus como Norton y McAfee ya no rompen la app)
+-⚡ CONVERTIDOR Y AUTOMATIZACIÓN > Opción Copy sin recodificar Modos Experto, Equipo y Audio Organización automática en carpetas por series, pelis, variados o música Sistema de duplicados para no reconvertir TAILS: reorganizar, cambiar parámetros y editar cola sin detener la conversión Druin: reanuda conversiones tras apagón o corte (compatible con Multi-Desk) Modo Audio con soporte total de formatos, bitrate, bits (16/24) y metadatos integrados Presets guardables
+-✏️ EDITOR DE METADATA > Arrastre de carpetas o unidades completas Bolita flotante conectada a internet para autocompletar cover, artistas, álbumes, fecha y descripción
+-⚙️ RENDIMIENTO > 3% CPU en reposo, 170 MB RAM y 10% GPU en ventana principal Mismos valores durante reproducción de video Sin blur ni transparencias, animaciones limitadas a 25 fps
+-⚠️ NOTA LEGAL > Sistema de descargas eliminado en países con leyes de copyright Solo activo en países sin esas leyes Si la app es modificada, el creador no se hace responsable
+Versión: 3.1.0
+link: https://github.com/Mike2Abraham/SPEED-MULTIMEDIA-PLAYER/releases/download/SPv3.1.0/64bits.Setup.3.1.0.rar
+####
 SP Multimedia v3.0.0 (64 bits)
 Subido el: Fecha de Subida: 16/05/2026
 Tamaño: 300 MB
